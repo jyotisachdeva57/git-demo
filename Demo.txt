@@ -2,4 +2,5 @@ This is master commit 1
 This is master commit 2
 This is feature commit 1
 This is feature commit 2
+This is feature commit 3
 
